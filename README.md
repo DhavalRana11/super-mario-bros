@@ -50,7 +50,8 @@ that's means location of file in your device
 
 
 Train the model:
-counting time  fps            
+counting time  
+               fps            
                iterations     
                time_elapsed   
                total_timesteps
